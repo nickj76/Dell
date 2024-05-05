@@ -108,7 +108,7 @@ Try {
     ##* VARIABLE DECLARATION
     ##*===============================================
     ## Variables: Application
-    [String]$appVendor = 'University of Surrey'
+    [String]$appVendor = ''
     [String]$appName = 'Deploy Driver Updates'
     [String]$appVersion = '1.0'
     [String]$appArch = 'x86/x64'
